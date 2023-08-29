@@ -18,3 +18,11 @@ In the project titled "T20 Data Insight," comprehensive data analytics technique
 - **Merlin's Foyer:** Merlin's Foyer website offered additional project details and resources, contributing to a comprehensive learning experience for those interested in replicating the analysis.
 
 Through the process of data scraping, transformation, and visualization, the project successfully built predictive models based on the 2022 T20 data. The culmination of these efforts resulted in the creation of insightful Power BI dashboards that offer informed predictions for forthcoming IPL seasons. This project serves as a testament to the power of data analytics in shaping strategic decisions within the realm of cricket, further bridging the gap between past performance and future triumphs.
+
+
+Dashboard Looks like this:
+![image](https://github.com/iriturj13/Strategic-Fantasy-Team-Analytics-using-Web-Scrapping-PowerBI-and-Python/assets/79366792/c74a6250-76b6-42dc-a03c-a446e4113b5e)
+![image](https://github.com/iriturj13/Strategic-Fantasy-Team-Analytics-using-Web-Scrapping-PowerBI-and-Python/assets/79366792/c24fe155-eb52-4157-9bcc-c09c13d6adb1)
+![image](https://github.com/iriturj13/Strategic-Fantasy-Team-Analytics-using-Web-Scrapping-PowerBI-and-Python/assets/79366792/e25cb25a-6860-4ce3-bf21-727968fbd842)
+
+
